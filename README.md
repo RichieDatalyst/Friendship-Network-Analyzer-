@@ -1,0 +1,1 @@
+This C++ program manages a social network's friendships using file input/output, 2D arrays, and interactive suggestions for new connections. It reads data from friends.txt and updates names in names.txt, offering friend suggestions based on mutual connections.￼Enter
